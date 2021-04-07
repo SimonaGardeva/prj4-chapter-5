@@ -1,5 +1,9 @@
 body {background-color: #F0131E;}
 
+header {
+    background-color: #FFFFFF;
+}
+
 p {
 font-family: 'Dela Gothic One', cursive;
 } 
@@ -12,3 +16,6 @@ div {
 font-family: 'Dela Gothic One', cursive;
 }
 
+footer {
+background-color: #FFFFFF;
+}
